@@ -1,5 +1,9 @@
 # CuttiToDo
 CuttiToDo   
+##Thanks To
+
+-background image: Flat background vector created by freepik - www.freepik.com   
+Summer time vector created by pikisuperstar - www.freepik.com   
 
 개선사항   
 1. 메뉴 슬라이딩 기능 추가할 것      
